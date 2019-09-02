@@ -1,4 +1,4 @@
-# Eicar-Test-tool-for-AV-testing
+# Eicar test tool for Antivirus testing
 
 Creates EICAR Test signature on disk and also downloads it from EICAR.org over HTTP and HTTPS, also downloads in  base64 format.
 
