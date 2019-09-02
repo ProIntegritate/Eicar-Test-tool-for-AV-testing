@@ -1,6 +1,8 @@
-# Eicar test tool for Antivirus testing
+# EICAR test tool for Antivirus testing
 
 Creates EICAR Test signature on disk and also downloads it from EICAR.org over HTTP and HTTPS, also downloads in  base64 format.
+
+SYNTAX: Just run it. No command line parameters reqired.
 
 Performs 5 tests:
 1. Writes EICAR AV test signature directly to disk
